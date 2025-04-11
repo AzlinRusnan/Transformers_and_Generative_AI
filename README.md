@@ -63,3 +63,5 @@ GPT is great for:
 
 - BERT is like someone who reads carefully to understand.
 - GPT is like someone who writes naturally to continue your thoughts.
+
+ps: still learning, will continue on LLM and more!
